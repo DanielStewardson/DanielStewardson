@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielStewardson
-- 👀 I’m interested in learning web development, front end, back end and all aspects of programming as it's freaking cool.
+- 👀 I’m interested in learning web development, front end, back end and pretty much any aspects of programming as it's freaking cool.
 - 🌱 I’m currently learning JavaScript, React, TDD with Mocha and Chai, HTML, CSS & responsive design.
 - 💞️ I’m looking to collaborate on anything that can help further my learning without hindering a project.
 - 📫 How to reach me: danzstewardson@hotmail.com
