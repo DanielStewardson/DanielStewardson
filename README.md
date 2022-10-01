@@ -1,3 +1,4 @@
+![alt text](https://www.codewars.com/users/DANT3HMAN/badges/small)
 - 👋 Hi, I’m @DanielStewardson <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working as an electrician and using online resources to self teach coding.
 - 👀 I’m interested in learning web development, front end, back end and pretty much any aspects of programming as it's freaking cool.
