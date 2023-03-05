@@ -1,13 +1,12 @@
 ![alt text](https://www.codewars.com/users/DANT3HMAN/badges/small)
 - 👋 Hi, I’m @DanielStewardson <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working as an electrician and using online resources to self teach coding.
-- 👀 I’m interested in learning web development, front end, back end and pretty much any aspects of programming as it's freaking cool.
-- 🌱 Currently learning Redux and implementing the Redux toolkit within React.
-- 📗 Always improving JavaScript, HTML, CSS, React & responsive design.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Currently working as an electrician and using online resources to learn web development.
 - 📜 Things I have used on projects:
-  - Chakra CSS library
+  - React
+  - Redux toolkit
   - TDD with Mocha and Chai
-- 💞️ I’m looking to collaborate on anything that can help further my learning.
+  - Chakra CSS library
+- 💞️ I’m interested in collaborating on anything that can help further my learning.
 - 📫 How to reach me: danzstewardson@hotmail.com
 
 <!---
